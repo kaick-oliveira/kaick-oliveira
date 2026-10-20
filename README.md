@@ -1,9 +1,11 @@
-# Hi, I'm Kaick!👋
+# Olá, eu sou o Kaick! 👋
 
-🎓 Software Development student at FATEC Cotia, Brazil.
+🎓 Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Cotia.
 
-💻 Currently learning Python, databases and software development.
+💻 Estudando Python, banco de dados e desenvolvimento web.
 
-📚 Working on academic projects and building my programming skiils step by step.
+📚 Construindo meus projetos acadêmicos e evoluindo minhas habilidades de programação passo a passo.
 
-🚀 Looking forward to learning, developing projects and growing in the tech field
+🚀 Em busca de uma oportunidade de estágio para aprender, desenvolver projetos e crescer na área de tecnologia.
+
+📍 Cotia - SP
